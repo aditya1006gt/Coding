@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aditya1006gt/Coding/tree/master/0004-median-of-two-sorted-arrays) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/aditya1006gt/Coding/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [3207-maximum-points-after-enemy-battles](https://github.com/aditya1006gt/Coding/tree/master/3207-maximum-points-after-enemy-battles) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/aditya1006gt/Coding/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 ## Binary Search
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/aditya1006gt/Coding/tree/master/3281-maximize-score-of-numbers-in-ranges) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/aditya1006gt/Coding/tree/master/0373-find-k-pairs-with-smallest-sums) |
 <!---LeetCode Topics End-->
