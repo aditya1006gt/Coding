@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aditya1006gt/Coding/tree/master/0004-median-of-two-sorted-arrays) |
+| [0221-maximal-square](https://github.com/aditya1006gt/Coding/tree/master/0221-maximal-square) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/aditya1006gt/Coding/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aditya1006gt/Coding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0475-heaters](https://github.com/aditya1006gt/Coding/tree/master/0475-heaters) |
@@ -58,9 +59,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/aditya1006gt/Coding/tree/master/0221-maximal-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aditya1006gt/Coding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Two Pointers
 |  |
 | ------- |
 | [0475-heaters](https://github.com/aditya1006gt/Coding/tree/master/0475-heaters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0221-maximal-square](https://github.com/aditya1006gt/Coding/tree/master/0221-maximal-square) |
 <!---LeetCode Topics End-->
