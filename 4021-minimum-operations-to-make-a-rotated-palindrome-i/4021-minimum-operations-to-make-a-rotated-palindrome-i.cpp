@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int func(string s) {
+    int func(const string& s) {
         int l=0,r=s.size()-1;
         int ans=0;
         // cout<<"s="<<s<<"\n";
@@ -23,14 +23,8 @@ public:
         
         int ans=INT_MAX;
         for(int i=0;i<n;i++) {
-            string s1=s.substr(0,i);
-            reverse(s1.begin(),s1.end());
-            string s2=s.substr(i,n);
-            reverse(s2.begin(),s2.end());
-            string s3=s1+s2;
-            reverse(s3.begin(),s3.end());
-            // cout<<s3<<" \n";
-            ans=min(ans,func(s3)+i);
+            string stg=s.substr(i)+s.substr(0,i);
+            ans=min(ans,func(stg)+i);
         }
         return ans;
     }
