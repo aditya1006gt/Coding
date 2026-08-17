@@ -88,4 +88,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya1006gt/Coding/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/aditya1006gt/Coding/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/aditya1006gt/Coding/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/aditya1006gt/Coding/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/aditya1006gt/Coding/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
