@@ -4,8 +4,6 @@ public:
         int n1=s.size(),n2=t.size();
         if(n1>n2) return 0;
 
-        
-
         vector<int>arrl(n1,-1);
         int i=0,j=0;
         while(i<n1 && j<n2) {
