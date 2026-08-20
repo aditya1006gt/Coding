@@ -1,14 +1,5 @@
 class Solution {
 public:
-    bool palin(const string& s) {
-        int n=s.size();
-        int l=0,r=n-1;
-        while(l<=r) {
-            if(s[l]!=s[r]) return 0;
-            l++;r--;
-        }
-        return 1;
-    }
     bool check(const string& a, const string& b) {
         int n=a.size();
         int l=0,r=n-1,c=0;
@@ -40,9 +31,6 @@ public:
     }
     bool checkPalindromeFormation(string a, string b) {
         int n=a.size();
-        if(palin(a) || palin(b)) {
-            return true;
-        }
         if(check(a,b) || check(b,a)) return true;
         return false;
     }
