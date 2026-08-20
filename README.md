@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aditya1006gt/Coding/tree/master/0004-median-of-two-sorted-arrays) |
+| [0055-jump-game](https://github.com/aditya1006gt/Coding/tree/master/0055-jump-game) |
 | [0221-maximal-square](https://github.com/aditya1006gt/Coding/tree/master/0221-maximal-square) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/aditya1006gt/Coding/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aditya1006gt/Coding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/aditya1006gt/Coding/tree/master/0055-jump-game) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/aditya1006gt/Coding/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3207-maximum-points-after-enemy-battles](https://github.com/aditya1006gt/Coding/tree/master/3207-maximum-points-after-enemy-battles) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/aditya1006gt/Coding/tree/master/3281-maximize-score-of-numbers-in-ranges) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/aditya1006gt/Coding/tree/master/0055-jump-game) |
 | [0221-maximal-square](https://github.com/aditya1006gt/Coding/tree/master/0221-maximal-square) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/aditya1006gt/Coding/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aditya1006gt/Coding/tree/master/1277-count-square-submatrices-with-all-ones) |
