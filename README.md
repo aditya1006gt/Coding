@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aditya1006gt/Coding/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1306-jump-game-iii](https://github.com/aditya1006gt/Coding/tree/master/1306-jump-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya1006gt/Coding/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1696-jump-game-vi](https://github.com/aditya1006gt/Coding/tree/master/1696-jump-game-vi) |
 | [3207-maximum-points-after-enemy-battles](https://github.com/aditya1006gt/Coding/tree/master/3207-maximum-points-after-enemy-battles) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/aditya1006gt/Coding/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 ## Binary Search
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/aditya1006gt/Coding/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aditya1006gt/Coding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1696-jump-game-vi](https://github.com/aditya1006gt/Coding/tree/master/1696-jump-game-vi) |
 ## Matrix
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/aditya1006gt/Coding/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aditya1006gt/Coding/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya1006gt/Coding/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1696-jump-game-vi](https://github.com/aditya1006gt/Coding/tree/master/1696-jump-game-vi) |
 ## Sliding Window
 |  |
 | ------- |
@@ -121,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/aditya1006gt/Coding/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [4026-maximum-gap-between-stations](https://github.com/aditya1006gt/Coding/tree/master/4026-maximum-gap-between-stations) |
+## Queue
+|  |
+| ------- |
+| [1696-jump-game-vi](https://github.com/aditya1006gt/Coding/tree/master/1696-jump-game-vi) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1696-jump-game-vi](https://github.com/aditya1006gt/Coding/tree/master/1696-jump-game-vi) |
 <!---LeetCode Topics End-->
