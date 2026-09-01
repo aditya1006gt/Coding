@@ -9,11 +9,12 @@ public:
             int curr=x,cost=0;
             while(curr<=sum) {
                 transforms.push_back({curr, cost});
-                curr *= 2;
+                curr*=2;
                 cost++;
             }
             
-            curr=x; cost=0;
+            curr=x;
+            cost=0;
             while(curr>0) {
                 curr/=2;
                 cost++;
