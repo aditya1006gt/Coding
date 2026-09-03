@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aditya1006gt/Coding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0475-heaters](https://github.com/aditya1006gt/Coding/tree/master/0475-heaters) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/aditya1006gt/Coding/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1222-queens-that-can-attack-the-king](https://github.com/aditya1006gt/Coding/tree/master/1222-queens-that-can-attack-the-king) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aditya1006gt/Coding/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1306-jump-game-iii](https://github.com/aditya1006gt/Coding/tree/master/1306-jump-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya1006gt/Coding/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/aditya1006gt/Coding/tree/master/0037-sudoku-solver) |
 | [0221-maximal-square](https://github.com/aditya1006gt/Coding/tree/master/0221-maximal-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aditya1006gt/Coding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1222-queens-that-can-attack-the-king](https://github.com/aditya1006gt/Coding/tree/master/1222-queens-that-can-attack-the-king) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aditya1006gt/Coding/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Two Pointers
 |  |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1871-jump-game-vii](https://github.com/aditya1006gt/Coding/tree/master/1871-jump-game-vii) |
+## Simulation
+|  |
+| ------- |
+| [1222-queens-that-can-attack-the-king](https://github.com/aditya1006gt/Coding/tree/master/1222-queens-that-can-attack-the-king) |
 <!---LeetCode Topics End-->
