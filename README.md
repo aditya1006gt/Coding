@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aditya1006gt/Coding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0475-heaters](https://github.com/aditya1006gt/Coding/tree/master/0475-heaters) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/aditya1006gt/Coding/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/aditya1006gt/Coding/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1222-queens-that-can-attack-the-king](https://github.com/aditya1006gt/Coding/tree/master/1222-queens-that-can-attack-the-king) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aditya1006gt/Coding/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1306-jump-game-iii](https://github.com/aditya1006gt/Coding/tree/master/1306-jump-game-iii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/aditya1006gt/Coding/tree/master/0037-sudoku-solver) |
 | [0221-maximal-square](https://github.com/aditya1006gt/Coding/tree/master/0221-maximal-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aditya1006gt/Coding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/aditya1006gt/Coding/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1222-queens-that-can-attack-the-king](https://github.com/aditya1006gt/Coding/tree/master/1222-queens-that-can-attack-the-king) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aditya1006gt/Coding/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Two Pointers
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/aditya1006gt/Coding/tree/master/0101-symmetric-tree) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/aditya1006gt/Coding/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1306-jump-game-iii](https://github.com/aditya1006gt/Coding/tree/master/1306-jump-game-iii) |
 ## Binary Tree
 |  |
