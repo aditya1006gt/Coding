@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/aditya1006gt/Coding/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [3011-find-if-array-can-be-sorted](https://github.com/aditya1006gt/Coding/tree/master/3011-find-if-array-can-be-sorted) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/aditya1006gt/Coding/tree/master/3281-maximize-score-of-numbers-in-ranges) |
+| [3913-sort-vowels-by-frequency](https://github.com/aditya1006gt/Coding/tree/master/3913-sort-vowels-by-frequency) |
 | [3975-filter-occupied-intervals](https://github.com/aditya1006gt/Coding/tree/master/3975-filter-occupied-intervals) |
 ## Heap (Priority Queue)
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/aditya1006gt/Coding/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1871-jump-game-vii](https://github.com/aditya1006gt/Coding/tree/master/1871-jump-game-vii) |
+| [3913-sort-vowels-by-frequency](https://github.com/aditya1006gt/Coding/tree/master/3913-sort-vowels-by-frequency) |
 | [4026-maximum-gap-between-stations](https://github.com/aditya1006gt/Coding/tree/master/4026-maximum-gap-between-stations) |
 ## Queue
 |  |
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3011-find-if-array-can-be-sorted](https://github.com/aditya1006gt/Coding/tree/master/3011-find-if-array-can-be-sorted) |
+## Counting
+|  |
+| ------- |
+| [3913-sort-vowels-by-frequency](https://github.com/aditya1006gt/Coding/tree/master/3913-sort-vowels-by-frequency) |
 <!---LeetCode Topics End-->
