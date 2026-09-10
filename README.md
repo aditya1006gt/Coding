@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya1006gt/Coding/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/aditya1006gt/Coding/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/aditya1006gt/Coding/tree/master/3281-maximize-score-of-numbers-in-ranges) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/aditya1006gt/Coding/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/aditya1006gt/Coding/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3870-count-commas-in-range](https://github.com/aditya1006gt/Coding/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/aditya1006gt/Coding/tree/master/3871-count-commas-in-range-ii) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/aditya1006gt/Coding/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Greedy
 |  |
 | ------- |
