@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3011-find-if-array-can-be-sorted](https://github.com/aditya1006gt/Coding/tree/master/3011-find-if-array-can-be-sorted) |
 | [3207-maximum-points-after-enemy-battles](https://github.com/aditya1006gt/Coding/tree/master/3207-maximum-points-after-enemy-battles) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/aditya1006gt/Coding/tree/master/3281-maximize-score-of-numbers-in-ranges) |
+| [3885-design-event-manager](https://github.com/aditya1006gt/Coding/tree/master/3885-design-event-manager) |
 | [3904-smallest-stable-index-ii](https://github.com/aditya1006gt/Coding/tree/master/3904-smallest-stable-index-ii) |
 | [3926-count-valid-word-occurrences](https://github.com/aditya1006gt/Coding/tree/master/3926-count-valid-word-occurrences) |
 | [3964-minimum-lights-to-illuminate-a-road](https://github.com/aditya1006gt/Coding/tree/master/3964-minimum-lights-to-illuminate-a-road) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/aditya1006gt/Coding/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aditya1006gt/Coding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1696-jump-game-vi](https://github.com/aditya1006gt/Coding/tree/master/1696-jump-game-vi) |
+| [3885-design-event-manager](https://github.com/aditya1006gt/Coding/tree/master/3885-design-event-manager) |
 ## Matrix
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/aditya1006gt/Coding/tree/master/0037-sudoku-solver) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya1006gt/Coding/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3885-design-event-manager](https://github.com/aditya1006gt/Coding/tree/master/3885-design-event-manager) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/aditya1006gt/Coding/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3926-count-valid-word-occurrences](https://github.com/aditya1006gt/Coding/tree/master/3926-count-valid-word-occurrences) |
 ## Tree
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/aditya1006gt/Coding/tree/master/0155-min-stack) |
+| [3885-design-event-manager](https://github.com/aditya1006gt/Coding/tree/master/3885-design-event-manager) |
 ## Backtracking
 |  |
 | ------- |
@@ -217,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/aditya1006gt/Coding/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3913-sort-vowels-by-frequency](https://github.com/aditya1006gt/Coding/tree/master/3913-sort-vowels-by-frequency) |
 | [3926-count-valid-word-occurrences](https://github.com/aditya1006gt/Coding/tree/master/3926-count-valid-word-occurrences) |
+## Ordered Set
+|  |
+| ------- |
+| [3885-design-event-manager](https://github.com/aditya1006gt/Coding/tree/master/3885-design-event-manager) |
 <!---LeetCode Topics End-->
