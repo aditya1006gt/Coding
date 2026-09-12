@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3011-find-if-array-can-be-sorted](https://github.com/aditya1006gt/Coding/tree/master/3011-find-if-array-can-be-sorted) |
 | [3207-maximum-points-after-enemy-battles](https://github.com/aditya1006gt/Coding/tree/master/3207-maximum-points-after-enemy-battles) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/aditya1006gt/Coding/tree/master/3281-maximize-score-of-numbers-in-ranges) |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/aditya1006gt/Coding/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3885-design-event-manager](https://github.com/aditya1006gt/Coding/tree/master/3885-design-event-manager) |
 | [3904-smallest-stable-index-ii](https://github.com/aditya1006gt/Coding/tree/master/3904-smallest-stable-index-ii) |
 | [3926-count-valid-word-occurrences](https://github.com/aditya1006gt/Coding/tree/master/3926-count-valid-word-occurrences) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/aditya1006gt/Coding/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3207-maximum-points-after-enemy-battles](https://github.com/aditya1006gt/Coding/tree/master/3207-maximum-points-after-enemy-battles) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/aditya1006gt/Coding/tree/master/3281-maximize-score-of-numbers-in-ranges) |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/aditya1006gt/Coding/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [4026-maximum-gap-between-stations](https://github.com/aditya1006gt/Coding/tree/master/4026-maximum-gap-between-stations) |
 ## Enumeration
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/aditya1006gt/Coding/tree/master/0037-sudoku-solver) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya1006gt/Coding/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/aditya1006gt/Coding/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3885-design-event-manager](https://github.com/aditya1006gt/Coding/tree/master/3885-design-event-manager) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/aditya1006gt/Coding/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3926-count-valid-word-occurrences](https://github.com/aditya1006gt/Coding/tree/master/3926-count-valid-word-occurrences) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/aditya1006gt/Coding/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/aditya1006gt/Coding/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3913-sort-vowels-by-frequency](https://github.com/aditya1006gt/Coding/tree/master/3913-sort-vowels-by-frequency) |
 | [3926-count-valid-word-occurrences](https://github.com/aditya1006gt/Coding/tree/master/3926-count-valid-word-occurrences) |
