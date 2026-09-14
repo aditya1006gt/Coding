@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aditya1006gt/Coding/tree/master/0002-add-two-numbers) |
+| [0836-rectangle-overlap](https://github.com/aditya1006gt/Coding/tree/master/0836-rectangle-overlap) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/aditya1006gt/Coding/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3870-count-commas-in-range](https://github.com/aditya1006gt/Coding/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/aditya1006gt/Coding/tree/master/3871-count-commas-in-range-ii) |
@@ -241,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3829-design-ride-sharing-system](https://github.com/aditya1006gt/Coding/tree/master/3829-design-ride-sharing-system) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/aditya1006gt/Coding/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
