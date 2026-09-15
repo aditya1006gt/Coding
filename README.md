@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3011-find-if-array-can-be-sorted](https://github.com/aditya1006gt/Coding/tree/master/3011-find-if-array-can-be-sorted) |
 | [3207-maximum-points-after-enemy-battles](https://github.com/aditya1006gt/Coding/tree/master/3207-maximum-points-after-enemy-battles) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/aditya1006gt/Coding/tree/master/3281-maximize-score-of-numbers-in-ranges) |
+| [3828-final-element-after-subarray-deletions](https://github.com/aditya1006gt/Coding/tree/master/3828-final-element-after-subarray-deletions) |
 | [3840-house-robber-v](https://github.com/aditya1006gt/Coding/tree/master/3840-house-robber-v) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/aditya1006gt/Coding/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3885-design-event-manager](https://github.com/aditya1006gt/Coding/tree/master/3885-design-event-manager) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/aditya1006gt/Coding/tree/master/0002-add-two-numbers) |
 | [0836-rectangle-overlap](https://github.com/aditya1006gt/Coding/tree/master/0836-rectangle-overlap) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/aditya1006gt/Coding/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
+| [3828-final-element-after-subarray-deletions](https://github.com/aditya1006gt/Coding/tree/master/3828-final-element-after-subarray-deletions) |
 | [3870-count-commas-in-range](https://github.com/aditya1006gt/Coding/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/aditya1006gt/Coding/tree/master/3871-count-commas-in-range-ii) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/aditya1006gt/Coding/tree/master/3932-count-k-th-roots-in-a-range) |
@@ -246,4 +248,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/aditya1006gt/Coding/tree/master/0836-rectangle-overlap) |
+## Brainteaser
+|  |
+| ------- |
+| [3828-final-element-after-subarray-deletions](https://github.com/aditya1006gt/Coding/tree/master/3828-final-element-after-subarray-deletions) |
+## Game Theory
+|  |
+| ------- |
+| [3828-final-element-after-subarray-deletions](https://github.com/aditya1006gt/Coding/tree/master/3828-final-element-after-subarray-deletions) |
 <!---LeetCode Topics End-->
