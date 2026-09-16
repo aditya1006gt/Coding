@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3011-find-if-array-can-be-sorted](https://github.com/aditya1006gt/Coding/tree/master/3011-find-if-array-can-be-sorted) |
 | [3207-maximum-points-after-enemy-battles](https://github.com/aditya1006gt/Coding/tree/master/3207-maximum-points-after-enemy-battles) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/aditya1006gt/Coding/tree/master/3281-maximize-score-of-numbers-in-ranges) |
+| [3824-minimum-k-to-reduce-array-within-limit](https://github.com/aditya1006gt/Coding/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 | [3828-final-element-after-subarray-deletions](https://github.com/aditya1006gt/Coding/tree/master/3828-final-element-after-subarray-deletions) |
 | [3840-house-robber-v](https://github.com/aditya1006gt/Coding/tree/master/3840-house-robber-v) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/aditya1006gt/Coding/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya1006gt/Coding/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/aditya1006gt/Coding/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/aditya1006gt/Coding/tree/master/3281-maximize-score-of-numbers-in-ranges) |
+| [3824-minimum-k-to-reduce-array-within-limit](https://github.com/aditya1006gt/Coding/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/aditya1006gt/Coding/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Divide and Conquer
 |  |
