@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3011-find-if-array-can-be-sorted](https://github.com/aditya1006gt/Coding/tree/master/3011-find-if-array-can-be-sorted) |
 | [3207-maximum-points-after-enemy-battles](https://github.com/aditya1006gt/Coding/tree/master/3207-maximum-points-after-enemy-battles) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/aditya1006gt/Coding/tree/master/3281-maximize-score-of-numbers-in-ranges) |
+| [3805-count-caesar-cipher-pairs](https://github.com/aditya1006gt/Coding/tree/master/3805-count-caesar-cipher-pairs) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/aditya1006gt/Coding/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 | [3828-final-element-after-subarray-deletions](https://github.com/aditya1006gt/Coding/tree/master/3828-final-element-after-subarray-deletions) |
 | [3840-house-robber-v](https://github.com/aditya1006gt/Coding/tree/master/3840-house-robber-v) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/aditya1006gt/Coding/tree/master/0002-add-two-numbers) |
 | [0836-rectangle-overlap](https://github.com/aditya1006gt/Coding/tree/master/0836-rectangle-overlap) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/aditya1006gt/Coding/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
+| [3805-count-caesar-cipher-pairs](https://github.com/aditya1006gt/Coding/tree/master/3805-count-caesar-cipher-pairs) |
 | [3828-final-element-after-subarray-deletions](https://github.com/aditya1006gt/Coding/tree/master/3828-final-element-after-subarray-deletions) |
 | [3870-count-commas-in-range](https://github.com/aditya1006gt/Coding/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/aditya1006gt/Coding/tree/master/3871-count-commas-in-range-ii) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/aditya1006gt/Coding/tree/master/0037-sudoku-solver) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya1006gt/Coding/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2766-relocate-marbles](https://github.com/aditya1006gt/Coding/tree/master/2766-relocate-marbles) |
+| [3805-count-caesar-cipher-pairs](https://github.com/aditya1006gt/Coding/tree/master/3805-count-caesar-cipher-pairs) |
 | [3829-design-ride-sharing-system](https://github.com/aditya1006gt/Coding/tree/master/3829-design-ride-sharing-system) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/aditya1006gt/Coding/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3885-design-event-manager](https://github.com/aditya1006gt/Coding/tree/master/3885-design-event-manager) |
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/aditya1006gt/Coding/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1871-jump-game-vii](https://github.com/aditya1006gt/Coding/tree/master/1871-jump-game-vii) |
+| [3805-count-caesar-cipher-pairs](https://github.com/aditya1006gt/Coding/tree/master/3805-count-caesar-cipher-pairs) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/aditya1006gt/Coding/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 | [3913-sort-vowels-by-frequency](https://github.com/aditya1006gt/Coding/tree/master/3913-sort-vowels-by-frequency) |
 | [3926-count-valid-word-occurrences](https://github.com/aditya1006gt/Coding/tree/master/3926-count-valid-word-occurrences) |
@@ -240,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [3805-count-caesar-cipher-pairs](https://github.com/aditya1006gt/Coding/tree/master/3805-count-caesar-cipher-pairs) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/aditya1006gt/Coding/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/aditya1006gt/Coding/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3913-sort-vowels-by-frequency](https://github.com/aditya1006gt/Coding/tree/master/3913-sort-vowels-by-frequency) |
