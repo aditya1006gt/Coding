@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3011-find-if-array-can-be-sorted](https://github.com/aditya1006gt/Coding/tree/master/3011-find-if-array-can-be-sorted) |
 | [3207-maximum-points-after-enemy-battles](https://github.com/aditya1006gt/Coding/tree/master/3207-maximum-points-after-enemy-battles) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/aditya1006gt/Coding/tree/master/3281-maximize-score-of-numbers-in-ranges) |
+| [3799-word-squares-ii](https://github.com/aditya1006gt/Coding/tree/master/3799-word-squares-ii) |
 | [3805-count-caesar-cipher-pairs](https://github.com/aditya1006gt/Coding/tree/master/3805-count-caesar-cipher-pairs) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/aditya1006gt/Coding/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 | [3828-final-element-after-subarray-deletions](https://github.com/aditya1006gt/Coding/tree/master/3828-final-element-after-subarray-deletions) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/aditya1006gt/Coding/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
+| [3799-word-squares-ii](https://github.com/aditya1006gt/Coding/tree/master/3799-word-squares-ii) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/aditya1006gt/Coding/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 ## Linked List
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-relocate-marbles](https://github.com/aditya1006gt/Coding/tree/master/2766-relocate-marbles) |
 | [3011-find-if-array-can-be-sorted](https://github.com/aditya1006gt/Coding/tree/master/3011-find-if-array-can-be-sorted) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/aditya1006gt/Coding/tree/master/3281-maximize-score-of-numbers-in-ranges) |
+| [3799-word-squares-ii](https://github.com/aditya1006gt/Coding/tree/master/3799-word-squares-ii) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/aditya1006gt/Coding/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3913-sort-vowels-by-frequency](https://github.com/aditya1006gt/Coding/tree/master/3913-sort-vowels-by-frequency) |
 | [3975-filter-occupied-intervals](https://github.com/aditya1006gt/Coding/tree/master/3975-filter-occupied-intervals) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/aditya1006gt/Coding/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1871-jump-game-vii](https://github.com/aditya1006gt/Coding/tree/master/1871-jump-game-vii) |
+| [3799-word-squares-ii](https://github.com/aditya1006gt/Coding/tree/master/3799-word-squares-ii) |
 | [3805-count-caesar-cipher-pairs](https://github.com/aditya1006gt/Coding/tree/master/3805-count-caesar-cipher-pairs) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/aditya1006gt/Coding/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 | [3913-sort-vowels-by-frequency](https://github.com/aditya1006gt/Coding/tree/master/3913-sort-vowels-by-frequency) |
@@ -217,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/aditya1006gt/Coding/tree/master/0037-sudoku-solver) |
+| [3799-word-squares-ii](https://github.com/aditya1006gt/Coding/tree/master/3799-word-squares-ii) |
 ## Algorithm X
 |  |
 | ------- |
