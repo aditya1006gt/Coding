@@ -173,12 +173,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aditya1006gt/Coding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/aditya1006gt/Coding/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/aditya1006gt/Coding/tree/master/0101-symmetric-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aditya1006gt/Coding/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aditya1006gt/Coding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/aditya1006gt/Coding/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/aditya1006gt/Coding/tree/master/0101-symmetric-tree) |
 | [1306-jump-game-iii](https://github.com/aditya1006gt/Coding/tree/master/1306-jump-game-iii) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aditya1006gt/Coding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/aditya1006gt/Coding/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/aditya1006gt/Coding/tree/master/0101-symmetric-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aditya1006gt/Coding/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aditya1006gt/Coding/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/aditya1006gt/Coding/tree/master/0155-min-stack) |
 ## Design
 |  |
