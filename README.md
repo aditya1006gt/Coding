@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/aditya1006gt/Coding/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2766-relocate-marbles](https://github.com/aditya1006gt/Coding/tree/master/2766-relocate-marbles) |
 | [3011-find-if-array-can-be-sorted](https://github.com/aditya1006gt/Coding/tree/master/3011-find-if-array-can-be-sorted) |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/aditya1006gt/Coding/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3207-maximum-points-after-enemy-battles](https://github.com/aditya1006gt/Coding/tree/master/3207-maximum-points-after-enemy-battles) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/aditya1006gt/Coding/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/aditya1006gt/Coding/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1222-queens-that-can-attack-the-king](https://github.com/aditya1006gt/Coding/tree/master/1222-queens-that-can-attack-the-king) |
 | [2766-relocate-marbles](https://github.com/aditya1006gt/Coding/tree/master/2766-relocate-marbles) |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/aditya1006gt/Coding/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -293,4 +295,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/aditya1006gt/Coding/tree/master/0056-merge-intervals) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/aditya1006gt/Coding/tree/master/3072-distribute-elements-into-two-arrays-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3072-distribute-elements-into-two-arrays-ii](https://github.com/aditya1006gt/Coding/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 <!---LeetCode Topics End-->
