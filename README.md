@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/aditya1006gt/Coding/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3964-minimum-lights-to-illuminate-a-road](https://github.com/aditya1006gt/Coding/tree/master/3964-minimum-lights-to-illuminate-a-road) |
 | [3975-filter-occupied-intervals](https://github.com/aditya1006gt/Coding/tree/master/3975-filter-occupied-intervals) |
+| [3987-minimum-total-cost-to-process-all-elements](https://github.com/aditya1006gt/Coding/tree/master/3987-minimum-total-cost-to-process-all-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/aditya1006gt/Coding/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/aditya1006gt/Coding/tree/master/3871-count-commas-in-range-ii) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/aditya1006gt/Coding/tree/master/3932-count-k-th-roots-in-a-range) |
+| [3987-minimum-total-cost-to-process-all-elements](https://github.com/aditya1006gt/Coding/tree/master/3987-minimum-total-cost-to-process-all-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1222-queens-that-can-attack-the-king](https://github.com/aditya1006gt/Coding/tree/master/1222-queens-that-can-attack-the-king) |
 | [2766-relocate-marbles](https://github.com/aditya1006gt/Coding/tree/master/2766-relocate-marbles) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/aditya1006gt/Coding/tree/master/3072-distribute-elements-into-two-arrays-ii) |
+| [3987-minimum-total-cost-to-process-all-elements](https://github.com/aditya1006gt/Coding/tree/master/3987-minimum-total-cost-to-process-all-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
