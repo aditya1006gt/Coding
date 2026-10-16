@@ -7,6 +7,7 @@ public:
         while(r!=0) {
             r=((r*10)+1)%k;
             val++;
+            // cout<<"val="<<r<<" \n";
         }
         return r==0?val:-1;
     }
