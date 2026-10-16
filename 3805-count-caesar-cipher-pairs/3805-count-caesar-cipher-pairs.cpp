@@ -5,11 +5,11 @@ public:
         for(int i=0;i<n;i++) {
             if(words[i][0]=='a') continue;
 
-            int r=words[i][0]-'a';r=26-r;
+            int r=words[i][0]-'a';
             int l=words[i].size();
             for(int j=0;j<l;j++) {
                 int v=words[i][j]-'a';
-                words[i][j]=((v+r)%26)+'a';
+                words[i][j]=((v-r+26)%26)+'a';
             }
         }
         // for(auto& i:words) cout<<"i="<<i<<" ";
