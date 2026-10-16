@@ -1,47 +1,39 @@
 class RideSharingSystem {
 public:
-    queue<int>qrider;
-    queue<int>qdriver;
-    map<int,int>mpp;
+    queue<int>rider;
+    queue<int>driver;
+    set<int>st;
     RideSharingSystem() {
         
     }
     
     void addRider(int riderId) {
-        qrider.push(riderId);
-        mpp[riderId]=0;
+        rider.push(riderId);
+        if(st.find(riderId)!=st.end()) st.erase(riderId);
     }
     
     void addDriver(int driverId) {
-        qdriver.push(driverId);
+        driver.push(driverId);
     }
     
     vector<int> matchDriverWithRider() {
-        if(qrider.empty() || qdriver.empty())
+        if(rider.empty() || driver.empty())
         return {-1,-1};
 
-        int ri=qrider.front();
-        qrider.pop();
-
-        while(mpp[ri]==-1) {
-            if(qrider.empty()) return {-1,-1};
-            mpp.erase(ri);
-
-            ri=qrider.front();
-            qrider.pop();
+        int ri=rider.front(); rider.pop();
+        while(st.find(ri)!=st.end() && !rider.empty()) {
+            ri=rider.front(); 
+            rider.pop();
         }
-
-        int di=qdriver.front();
-        qdriver.pop();
-
-        mpp.erase(ri);
+        if(st.find(ri)!=st.end()) return {-1,-1};
+        int di=driver.front(); driver.pop();
         return {di,ri};
     }
     
     void cancelRider(int riderId) {
-        if(mpp.find(riderId)==mpp.end()) return;
+        if(st.find(riderId)!=st.end()) return;
 
-        mpp[riderId]=-1;
+        st.insert(riderId);
     }
 };
 
