@@ -1,38 +1,34 @@
 class Solution {
 public:
-    bool check(char c) {
-        return 'a'<=c && c<='z';
-    }
     vector<int> countWordOccurrences(vector<string>& chunks, vector<string>& queries) {
-        int n=chunks.size();
-        string stg="";
-        for(int i=0;i<n;i++) {
-            stg+=chunks[i];
-        }
+        string s="";
+        for(auto& i:chunks) s+=i;
 
-        n=stg.size();
-        string wrd="";
-        map<string,int>mpp;
+        int n=s.size();
+        string stg="";
+        unordered_map<string,int>mpp;
         for(int i=0;i<n;i++) {
-            if(i!=0 && i!=n-1 && stg[i]=='-' && check(stg[i-1]) && check(stg[i+1])) {
-                wrd+='-';
+            if('a'<=s[i] && s[i]<='z') stg+=s[i];
+
+            else if(s[i]==' ') {
+                mpp[stg]++;
+                cout<<stg<<" \n";
+                stg="";
             }
-            else if(check(stg[i])) {
-                wrd+=stg[i];
-            }
+            else if(i!=0 && i!=n-1 && s[i]=='-' && ('a'<=s[i-1] && s[i-1]<='z') && ('a'<=s[i+1] && s[i+1]<='z')) stg+=s[i];
+
             else {
-                if(wrd!="")
-                mpp[wrd]++;
-                wrd="";
+                cout<<stg<<" \n";
+                mpp[stg]++;
+                stg="";
             }
         }
-        if(wrd.size()!=0) mpp[wrd]++;
-        // for(auto& i:mpp) cout<<"first="<<i.first<<" \n";
-        vector<int>ans;
+        if(stg!="") mpp[stg]++;
+
+        vector<int> ans;
         for(auto& i:queries) {
             ans.push_back(mpp[i]);
         }
-
         return ans;
     }
 };
