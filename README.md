@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3207-maximum-points-after-enemy-battles](https://github.com/aditya1006gt/Coding/tree/master/3207-maximum-points-after-enemy-battles) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/aditya1006gt/Coding/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3468-find-the-number-of-copy-arrays](https://github.com/aditya1006gt/Coding/tree/master/3468-find-the-number-of-copy-arrays) |
+| [3709-design-exam-scores-tracker](https://github.com/aditya1006gt/Coding/tree/master/3709-design-exam-scores-tracker) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/aditya1006gt/Coding/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3799-word-squares-ii](https://github.com/aditya1006gt/Coding/tree/master/3799-word-squares-ii) |
 | [3805-count-caesar-cipher-pairs](https://github.com/aditya1006gt/Coding/tree/master/3805-count-caesar-cipher-pairs) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya1006gt/Coding/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/aditya1006gt/Coding/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/aditya1006gt/Coding/tree/master/3281-maximize-score-of-numbers-in-ranges) |
+| [3709-design-exam-scores-tracker](https://github.com/aditya1006gt/Coding/tree/master/3709-design-exam-scores-tracker) |
 | [3824-minimum-k-to-reduce-array-within-limit](https://github.com/aditya1006gt/Coding/tree/master/3824-minimum-k-to-reduce-array-within-limit) |
 | [3932-count-k-th-roots-in-a-range](https://github.com/aditya1006gt/Coding/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Divide and Conquer
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/aditya1006gt/Coding/tree/master/0155-min-stack) |
+| [3709-design-exam-scores-tracker](https://github.com/aditya1006gt/Coding/tree/master/3709-design-exam-scores-tracker) |
 | [3829-design-ride-sharing-system](https://github.com/aditya1006gt/Coding/tree/master/3829-design-ride-sharing-system) |
 | [3885-design-event-manager](https://github.com/aditya1006gt/Coding/tree/master/3885-design-event-manager) |
 ## Backtracking
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1871-jump-game-vii](https://github.com/aditya1006gt/Coding/tree/master/1871-jump-game-vii) |
+| [3709-design-exam-scores-tracker](https://github.com/aditya1006gt/Coding/tree/master/3709-design-exam-scores-tracker) |
 | [3904-smallest-stable-index-ii](https://github.com/aditya1006gt/Coding/tree/master/3904-smallest-stable-index-ii) |
 | [3964-minimum-lights-to-illuminate-a-road](https://github.com/aditya1006gt/Coding/tree/master/3964-minimum-lights-to-illuminate-a-road) |
 ## Simulation
