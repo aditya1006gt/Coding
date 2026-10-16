@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3885-design-event-manager](https://github.com/aditya1006gt/Coding/tree/master/3885-design-event-manager) |
 | [3904-smallest-stable-index-ii](https://github.com/aditya1006gt/Coding/tree/master/3904-smallest-stable-index-ii) |
 | [3926-count-valid-word-occurrences](https://github.com/aditya1006gt/Coding/tree/master/3926-count-valid-word-occurrences) |
+| [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/aditya1006gt/Coding/tree/master/3937-minimum-operations-to-make-array-modulo-alternating-i) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/aditya1006gt/Coding/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3964-minimum-lights-to-illuminate-a-road](https://github.com/aditya1006gt/Coding/tree/master/3964-minimum-lights-to-illuminate-a-road) |
 | [3975-filter-occupied-intervals](https://github.com/aditya1006gt/Coding/tree/master/3975-filter-occupied-intervals) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/aditya1006gt/Coding/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3799-word-squares-ii](https://github.com/aditya1006gt/Coding/tree/master/3799-word-squares-ii) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/aditya1006gt/Coding/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
+| [3937-minimum-operations-to-make-array-modulo-alternating-i](https://github.com/aditya1006gt/Coding/tree/master/3937-minimum-operations-to-make-array-modulo-alternating-i) |
 ## Linked List
 |  |
 | ------- |
