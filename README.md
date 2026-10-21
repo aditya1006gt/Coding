@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3964-minimum-lights-to-illuminate-a-road](https://github.com/aditya1006gt/Coding/tree/master/3964-minimum-lights-to-illuminate-a-road) |
 | [3975-filter-occupied-intervals](https://github.com/aditya1006gt/Coding/tree/master/3975-filter-occupied-intervals) |
 | [3987-minimum-total-cost-to-process-all-elements](https://github.com/aditya1006gt/Coding/tree/master/3987-minimum-total-cost-to-process-all-elements) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/aditya1006gt/Coding/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Binary Search
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3885-design-event-manager](https://github.com/aditya1006gt/Coding/tree/master/3885-design-event-manager) |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/aditya1006gt/Coding/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3926-count-valid-word-occurrences](https://github.com/aditya1006gt/Coding/tree/master/3926-count-valid-word-occurrences) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/aditya1006gt/Coding/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Tree
 |  |
 | ------- |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/aditya1006gt/Coding/tree/master/3890-integers-with-multiple-sum-of-two-cubes) |
 | [3913-sort-vowels-by-frequency](https://github.com/aditya1006gt/Coding/tree/master/3913-sort-vowels-by-frequency) |
 | [3926-count-valid-word-occurrences](https://github.com/aditya1006gt/Coding/tree/master/3926-count-valid-word-occurrences) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/aditya1006gt/Coding/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Ordered Set
 |  |
 | ------- |
