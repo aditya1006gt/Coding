@@ -1,41 +1,28 @@
 class Solution {
 public:
-    int asc_rot(vector<int>& nums) {
-        int n=nums.size(),c=0;
-        for(int i=0;i<n;i++) {
-            c=i;
-            if(nums[i]==0) return i;
-        }
-        return c;
-    }
-    int desc_rot(vector<int>& nums) {
-        int n=nums.size(),c=0;
-        for(int i=0;i<n;i++) {
-            c=i;
-            if(nums[i]==n-1) return i+1;
-        }
-        return c;
-    }
     int minOperations(vector<int>& nums) {
-        int n=nums.size(),c=0;
-        if(n==1) return 0;
+        int n=nums.size();
+        // if(n==1) return 0;
+        int l=0,r=0;
+        int mn=INT_MAX,mni=-1;
         for(int i=0;i<n;i++) {
-            if(i!=0 && nums[i-1]>nums[i]) c++;
-            if(i==0 && nums[n-1]>nums[0]) c++;
-        }
-        int ms=INT_MAX;
-        if(c==1) ms=min(ms,asc_rot(nums));
-        else if(c==n-1) ms=min(ms,desc_rot(nums));
-        else return -1;
+            if(nums[i]>=nums[(i+1)%n]) l++;
 
-        reverse(nums.begin(),nums.end());
-        c=0;
-        for(int i=0;i<n;i++) {
-            if(i!=0 && nums[i-1]>nums[i]) c++;
-            if(i==0 && nums[n-1]>nums[0]) c++;
+            if(mni==-1 || nums[mni]>nums[i])
+            mni=i;
         }
-        if(c==1) ms=min(ms,asc_rot(nums) +1 );
-        else if(c==n-1) ms=min(ms,desc_rot(nums) + 1);
-        return ms;
+        for(int i=0;i<n;i++) {
+            if(nums[i]<=nums[(i+1)%n]) r++;
+        }
+        // cout<<"l="<<l<<" r="<<r;
+        if(l!=1 && r!=1) return -1;
+
+        if(l==1) {
+            return min(mni,2+n-mni);
+        }
+        else {
+            return min(mni+2,n-mni);
+        }
+        return -1;
     }
 };
