@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3207-maximum-points-after-enemy-battles](https://github.com/aditya1006gt/Coding/tree/master/3207-maximum-points-after-enemy-battles) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/aditya1006gt/Coding/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3468-find-the-number-of-copy-arrays](https://github.com/aditya1006gt/Coding/tree/master/3468-find-the-number-of-copy-arrays) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/aditya1006gt/Coding/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3709-design-exam-scores-tracker](https://github.com/aditya1006gt/Coding/tree/master/3709-design-exam-scores-tracker) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/aditya1006gt/Coding/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3799-word-squares-ii](https://github.com/aditya1006gt/Coding/tree/master/3799-word-squares-ii) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0898-bitwise-ors-of-subarrays](https://github.com/aditya1006gt/Coding/tree/master/0898-bitwise-ors-of-subarrays) |
 | [3011-find-if-array-can-be-sorted](https://github.com/aditya1006gt/Coding/tree/master/3011-find-if-array-can-be-sorted) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/aditya1006gt/Coding/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/aditya1006gt/Coding/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
 ## Counting
 |  |
