@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/aditya1006gt/Coding/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aditya1006gt/Coding/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/aditya1006gt/Coding/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/aditya1006gt/Coding/tree/master/0075-sort-colors) |
 | [0221-maximal-square](https://github.com/aditya1006gt/Coding/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/aditya1006gt/Coding/tree/master/0239-sliding-window-maximum) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/aditya1006gt/Coding/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/aditya1006gt/Coding/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/aditya1006gt/Coding/tree/master/0075-sort-colors) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aditya1006gt/Coding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0475-heaters](https://github.com/aditya1006gt/Coding/tree/master/0475-heaters) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/aditya1006gt/Coding/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aditya1006gt/Coding/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aditya1006gt/Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/aditya1006gt/Coding/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/aditya1006gt/Coding/tree/master/0075-sort-colors) |
 | [0475-heaters](https://github.com/aditya1006gt/Coding/tree/master/0475-heaters) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/aditya1006gt/Coding/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [4026-maximum-gap-between-stations](https://github.com/aditya1006gt/Coding/tree/master/4026-maximum-gap-between-stations) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/aditya1006gt/Coding/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/aditya1006gt/Coding/tree/master/0075-sort-colors) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -370,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/aditya1006gt/Coding/tree/master/0399-evaluate-division) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/aditya1006gt/Coding/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
