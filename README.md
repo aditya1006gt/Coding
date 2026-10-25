@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/aditya1006gt/Coding/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aditya1006gt/Coding/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1222-queens-that-can-attack-the-king](https://github.com/aditya1006gt/Coding/tree/master/1222-queens-that-can-attack-the-king) |
+| [1254-number-of-closed-islands](https://github.com/aditya1006gt/Coding/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aditya1006gt/Coding/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1306-jump-game-iii](https://github.com/aditya1006gt/Coding/tree/master/1306-jump-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya1006gt/Coding/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aditya1006gt/Coding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aditya1006gt/Coding/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1222-queens-that-can-attack-the-king](https://github.com/aditya1006gt/Coding/tree/master/1222-queens-that-can-attack-the-king) |
+| [1254-number-of-closed-islands](https://github.com/aditya1006gt/Coding/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aditya1006gt/Coding/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Two Pointers
 |  |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/aditya1006gt/Coding/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/aditya1006gt/Coding/tree/master/0101-symmetric-tree) |
 | [0399-evaluate-division](https://github.com/aditya1006gt/Coding/tree/master/0399-evaluate-division) |
+| [1254-number-of-closed-islands](https://github.com/aditya1006gt/Coding/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/aditya1006gt/Coding/tree/master/1306-jump-game-iii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aditya1006gt/Coding/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/aditya1006gt/Coding/tree/master/0101-symmetric-tree) |
 | [0399-evaluate-division](https://github.com/aditya1006gt/Coding/tree/master/0399-evaluate-division) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aditya1006gt/Coding/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/aditya1006gt/Coding/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/aditya1006gt/Coding/tree/master/1306-jump-game-iii) |
 ## Binary Tree
 |  |
@@ -358,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/aditya1006gt/Coding/tree/master/0399-evaluate-division) |
+| [1254-number-of-closed-islands](https://github.com/aditya1006gt/Coding/tree/master/1254-number-of-closed-islands) |
 ## Graph Theory
 |  |
 | ------- |
