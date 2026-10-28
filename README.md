@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3468-find-the-number-of-copy-arrays](https://github.com/aditya1006gt/Coding/tree/master/3468-find-the-number-of-copy-arrays) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aditya1006gt/Coding/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aditya1006gt/Coding/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3698-split-array-with-minimum-difference](https://github.com/aditya1006gt/Coding/tree/master/3698-split-array-with-minimum-difference) |
 | [3709-design-exam-scores-tracker](https://github.com/aditya1006gt/Coding/tree/master/3709-design-exam-scores-tracker) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/aditya1006gt/Coding/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3799-word-squares-ii](https://github.com/aditya1006gt/Coding/tree/master/3799-word-squares-ii) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aditya1006gt/Coding/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1871-jump-game-vii](https://github.com/aditya1006gt/Coding/tree/master/1871-jump-game-vii) |
+| [3698-split-array-with-minimum-difference](https://github.com/aditya1006gt/Coding/tree/master/3698-split-array-with-minimum-difference) |
 | [3709-design-exam-scores-tracker](https://github.com/aditya1006gt/Coding/tree/master/3709-design-exam-scores-tracker) |
 | [3904-smallest-stable-index-ii](https://github.com/aditya1006gt/Coding/tree/master/3904-smallest-stable-index-ii) |
 | [3964-minimum-lights-to-illuminate-a-road](https://github.com/aditya1006gt/Coding/tree/master/3964-minimum-lights-to-illuminate-a-road) |
