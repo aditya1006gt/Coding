@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3828-final-element-after-subarray-deletions](https://github.com/aditya1006gt/Coding/tree/master/3828-final-element-after-subarray-deletions) |
 | [3840-house-robber-v](https://github.com/aditya1006gt/Coding/tree/master/3840-house-robber-v) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/aditya1006gt/Coding/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/aditya1006gt/Coding/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3885-design-event-manager](https://github.com/aditya1006gt/Coding/tree/master/3885-design-event-manager) |
 | [3886-sum-of-sortable-integers](https://github.com/aditya1006gt/Coding/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/aditya1006gt/Coding/tree/master/3904-smallest-stable-index-ii) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/aditya1006gt/Coding/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aditya1006gt/Coding/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aditya1006gt/Coding/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/aditya1006gt/Coding/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1696-jump-game-vi](https://github.com/aditya1006gt/Coding/tree/master/1696-jump-game-vi) |
 | [1871-jump-game-vii](https://github.com/aditya1006gt/Coding/tree/master/1871-jump-game-vii) |
 | [3840-house-robber-v](https://github.com/aditya1006gt/Coding/tree/master/3840-house-robber-v) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/aditya1006gt/Coding/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3011-find-if-array-can-be-sorted](https://github.com/aditya1006gt/Coding/tree/master/3011-find-if-array-can-be-sorted) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aditya1006gt/Coding/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/aditya1006gt/Coding/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/aditya1006gt/Coding/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Counting
 |  |
 | ------- |
