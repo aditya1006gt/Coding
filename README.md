@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/aditya1006gt/Coding/tree/master/0239-sliding-window-maximum) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/aditya1006gt/Coding/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aditya1006gt/Coding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aditya1006gt/Coding/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1696-jump-game-vi](https://github.com/aditya1006gt/Coding/tree/master/1696-jump-game-vi) |
 | [3885-design-event-manager](https://github.com/aditya1006gt/Coding/tree/master/3885-design-event-manager) |
 ## Matrix
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/aditya1006gt/Coding/tree/master/0072-edit-distance) |
 | [0221-maximal-square](https://github.com/aditya1006gt/Coding/tree/master/0221-maximal-square) |
 | [0688-knight-probability-in-chessboard](https://github.com/aditya1006gt/Coding/tree/master/0688-knight-probability-in-chessboard) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aditya1006gt/Coding/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/aditya1006gt/Coding/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/aditya1006gt/Coding/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aditya1006gt/Coding/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/aditya1006gt/Coding/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/aditya1006gt/Coding/tree/master/0101-symmetric-tree) |
 | [0399-evaluate-division](https://github.com/aditya1006gt/Coding/tree/master/0399-evaluate-division) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aditya1006gt/Coding/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1254-number-of-closed-islands](https://github.com/aditya1006gt/Coding/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/aditya1006gt/Coding/tree/master/1306-jump-game-iii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aditya1006gt/Coding/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/aditya1006gt/Coding/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/aditya1006gt/Coding/tree/master/0101-symmetric-tree) |
 | [0399-evaluate-division](https://github.com/aditya1006gt/Coding/tree/master/0399-evaluate-division) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aditya1006gt/Coding/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/aditya1006gt/Coding/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/aditya1006gt/Coding/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/aditya1006gt/Coding/tree/master/1306-jump-game-iii) |
@@ -380,10 +384,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/aditya1006gt/Coding/tree/master/0399-evaluate-division) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aditya1006gt/Coding/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/aditya1006gt/Coding/tree/master/0399-evaluate-division) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aditya1006gt/Coding/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
