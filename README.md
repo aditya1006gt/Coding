@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3468-find-the-number-of-copy-arrays](https://github.com/aditya1006gt/Coding/tree/master/3468-find-the-number-of-copy-arrays) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aditya1006gt/Coding/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aditya1006gt/Coding/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/aditya1006gt/Coding/tree/master/3665-twisted-mirror-path-count) |
 | [3698-split-array-with-minimum-difference](https://github.com/aditya1006gt/Coding/tree/master/3698-split-array-with-minimum-difference) |
 | [3709-design-exam-scores-tracker](https://github.com/aditya1006gt/Coding/tree/master/3709-design-exam-scores-tracker) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/aditya1006gt/Coding/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/aditya1006gt/Coding/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aditya1006gt/Coding/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aditya1006gt/Coding/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/aditya1006gt/Coding/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/aditya1006gt/Coding/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aditya1006gt/Coding/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1696-jump-game-vi](https://github.com/aditya1006gt/Coding/tree/master/1696-jump-game-vi) |
 | [1871-jump-game-vii](https://github.com/aditya1006gt/Coding/tree/master/1871-jump-game-vii) |
+| [3665-twisted-mirror-path-count](https://github.com/aditya1006gt/Coding/tree/master/3665-twisted-mirror-path-count) |
 | [3840-house-robber-v](https://github.com/aditya1006gt/Coding/tree/master/3840-house-robber-v) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/aditya1006gt/Coding/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sliding Window
