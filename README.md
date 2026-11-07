@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya1006gt/Coding/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aditya1006gt/Coding/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1696-jump-game-vi](https://github.com/aditya1006gt/Coding/tree/master/1696-jump-game-vi) |
+| [1882-process-tasks-using-servers](https://github.com/aditya1006gt/Coding/tree/master/1882-process-tasks-using-servers) |
 | [1936-add-minimum-number-of-rungs](https://github.com/aditya1006gt/Coding/tree/master/1936-add-minimum-number-of-rungs) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/aditya1006gt/Coding/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2766-relocate-marbles](https://github.com/aditya1006gt/Coding/tree/master/2766-relocate-marbles) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aditya1006gt/Coding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aditya1006gt/Coding/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1696-jump-game-vi](https://github.com/aditya1006gt/Coding/tree/master/1696-jump-game-vi) |
+| [1882-process-tasks-using-servers](https://github.com/aditya1006gt/Coding/tree/master/1882-process-tasks-using-servers) |
 | [3885-design-event-manager](https://github.com/aditya1006gt/Coding/tree/master/3885-design-event-manager) |
 ## Matrix
 |  |
