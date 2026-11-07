@@ -12,10 +12,10 @@ public:
 
         priority_queue< pair<long long,pair<int,int>>, vector<pair<long long,pair<int,int>>>, greater<pair<long long,pair<int,int>>>>busy;
 
-        int l=tasks.size();
+        int m=tasks.size();
         long long time=0;
         vector<int> ans;
-        for(int i=0;i<l;i++) {
+        for(int i=0;i<m;i++) {
             time=max(time,(long long)i);
 
             while(!busy.empty() && busy.top().first<=time) {
