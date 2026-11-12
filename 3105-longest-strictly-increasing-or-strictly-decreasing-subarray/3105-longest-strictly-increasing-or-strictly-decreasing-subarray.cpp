@@ -7,16 +7,14 @@ public:
         for(int i=1;i<n;i++) {
             if(nums[i-1]<nums[i]) {
                 si++;sd=1;
-                ans=max(ans,si);
             }
             else if(nums[i-1]>nums[i]) {
                 sd++;si=1;
-                ans=max(ans,sd);
-            } else {
-                ans=max(ans,sd);
-                ans=max(ans,si);
+            } 
+            else {
                 sd=1;si=1;
             }
+            ans=max({ans,sd,si});
         }
         return ans;
     }
