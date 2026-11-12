@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-relocate-marbles](https://github.com/aditya1006gt/Coding/tree/master/2766-relocate-marbles) |
 | [3011-find-if-array-can-be-sorted](https://github.com/aditya1006gt/Coding/tree/master/3011-find-if-array-can-be-sorted) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/aditya1006gt/Coding/tree/master/3072-distribute-elements-into-two-arrays-ii) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aditya1006gt/Coding/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3207-maximum-points-after-enemy-battles](https://github.com/aditya1006gt/Coding/tree/master/3207-maximum-points-after-enemy-battles) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/aditya1006gt/Coding/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3468-find-the-number-of-copy-arrays](https://github.com/aditya1006gt/Coding/tree/master/3468-find-the-number-of-copy-arrays) |
