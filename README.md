@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aditya1006gt/Coding/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/aditya1006gt/Coding/tree/master/0012-integer-to-roman) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aditya1006gt/Coding/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aditya1006gt/Coding/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/aditya1006gt/Coding/tree/master/0836-rectangle-overlap) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aditya1006gt/Coding/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/aditya1006gt/Coding/tree/master/0012-integer-to-roman) |
 | [0037-sudoku-solver](https://github.com/aditya1006gt/Coding/tree/master/0037-sudoku-solver) |
 | [0299-bulls-and-cows](https://github.com/aditya1006gt/Coding/tree/master/0299-bulls-and-cows) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya1006gt/Coding/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/aditya1006gt/Coding/tree/master/0012-integer-to-roman) |
 | [0072-edit-distance](https://github.com/aditya1006gt/Coding/tree/master/0072-edit-distance) |
 | [0299-bulls-and-cows](https://github.com/aditya1006gt/Coding/tree/master/0299-bulls-and-cows) |
 | [0399-evaluate-division](https://github.com/aditya1006gt/Coding/tree/master/0399-evaluate-division) |
