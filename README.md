@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/aditya1006gt/Coding/tree/master/0399-evaluate-division) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/aditya1006gt/Coding/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1871-jump-game-vii](https://github.com/aditya1006gt/Coding/tree/master/1871-jump-game-vii) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/aditya1006gt/Coding/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3799-word-squares-ii](https://github.com/aditya1006gt/Coding/tree/master/3799-word-squares-ii) |
 | [3805-count-caesar-cipher-pairs](https://github.com/aditya1006gt/Coding/tree/master/3805-count-caesar-cipher-pairs) |
 | [3849-maximum-bitwise-xor-after-rearrangement](https://github.com/aditya1006gt/Coding/tree/master/3849-maximum-bitwise-xor-after-rearrangement) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1222-queens-that-can-attack-the-king](https://github.com/aditya1006gt/Coding/tree/master/1222-queens-that-can-attack-the-king) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/aditya1006gt/Coding/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2766-relocate-marbles](https://github.com/aditya1006gt/Coding/tree/master/2766-relocate-marbles) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/aditya1006gt/Coding/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3987-minimum-total-cost-to-process-all-elements](https://github.com/aditya1006gt/Coding/tree/master/3987-minimum-total-cost-to-process-all-elements) |
