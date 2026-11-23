@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/aditya1006gt/Coding/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aditya1006gt/Coding/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1306-jump-game-iii](https://github.com/aditya1006gt/Coding/tree/master/1306-jump-game-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aditya1006gt/Coding/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aditya1006gt/Coding/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aditya1006gt/Coding/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aditya1006gt/Coding/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aditya1006gt/Coding/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aditya1006gt/Coding/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/aditya1006gt/Coding/tree/master/0836-rectangle-overlap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aditya1006gt/Coding/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aditya1006gt/Coding/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/aditya1006gt/Coding/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3468-find-the-number-of-copy-arrays](https://github.com/aditya1006gt/Coding/tree/master/3468-find-the-number-of-copy-arrays) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/aditya1006gt/Coding/tree/master/0155-min-stack) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aditya1006gt/Coding/tree/master/1352-product-of-the-last-k-numbers) |
 | [3709-design-exam-scores-tracker](https://github.com/aditya1006gt/Coding/tree/master/3709-design-exam-scores-tracker) |
 | [3829-design-ride-sharing-system](https://github.com/aditya1006gt/Coding/tree/master/3829-design-ride-sharing-system) |
 | [3885-design-event-manager](https://github.com/aditya1006gt/Coding/tree/master/3885-design-event-manager) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/aditya1006gt/Coding/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aditya1006gt/Coding/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1871-jump-game-vii](https://github.com/aditya1006gt/Coding/tree/master/1871-jump-game-vii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/aditya1006gt/Coding/tree/master/3364-minimum-positive-sum-subarray) |
@@ -383,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/aditya1006gt/Coding/tree/master/1352-product-of-the-last-k-numbers) |
 | [3829-design-ride-sharing-system](https://github.com/aditya1006gt/Coding/tree/master/3829-design-ride-sharing-system) |
 ## Geometry
 |  |
