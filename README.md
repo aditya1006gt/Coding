@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/aditya1006gt/Coding/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aditya1006gt/Coding/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/aditya1006gt/Coding/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
+| [3360-stone-removal-game](https://github.com/aditya1006gt/Coding/tree/master/3360-stone-removal-game) |
 | [3468-find-the-number-of-copy-arrays](https://github.com/aditya1006gt/Coding/tree/master/3468-find-the-number-of-copy-arrays) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/aditya1006gt/Coding/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aditya1006gt/Coding/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/aditya1006gt/Coding/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2766-relocate-marbles](https://github.com/aditya1006gt/Coding/tree/master/2766-relocate-marbles) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/aditya1006gt/Coding/tree/master/3072-distribute-elements-into-two-arrays-ii) |
+| [3360-stone-removal-game](https://github.com/aditya1006gt/Coding/tree/master/3360-stone-removal-game) |
 | [3987-minimum-total-cost-to-process-all-elements](https://github.com/aditya1006gt/Coding/tree/master/3987-minimum-total-cost-to-process-all-elements) |
 ## Bit Manipulation
 |  |
